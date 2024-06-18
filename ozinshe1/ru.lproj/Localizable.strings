@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  ozinshe1
+
+  Created by Туйаара Алаас on 14.03.2023.
+  
+*/
+"MY_PROFILE" = "Мой профиль";
+"LANGUAGE" = "Русский";
+"CONNECTION_ERROR" = "Ошибка соединения";
